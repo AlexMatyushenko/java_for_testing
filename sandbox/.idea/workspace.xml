@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ce1458-2f49-48dc-80af-821a9c2eb13b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/FirstTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateContactTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -79,8 +78,8 @@
       <file leaf-file-name="CreateGroupTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            <state relative-caret-position="255">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -88,8 +87,23 @@
       <file leaf-file-name="CreateContactTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateContactTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="578">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#1574#1575#0" expanded="true" />
+                <element signature="e#1632#1633#0" expanded="true" />
+                <element signature="e#3800#3801#0" expanded="true" />
+                <element signature="e#3860#3861#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactGroup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/ContactGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -813,6 +827,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../addressbook-web-tests/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -1065,24 +1080,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DistanceTest_testDistance - 2019.01.08 at 23h 53m 12s.xml">
-      <configuration name="DistanceTest.testDistance" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DistanceTest_testDistance - 2019.01.09 at 20h 50m 14s.xml">
-      <configuration name="DistanceTest.testDistance" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DistanceTest_testDistance - 2019.01.09 at 23h 28m 23s.xml">
-      <configuration name="DistanceTest.testDistance" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DistanceTest - 2019.01.09 at 23h 28m 45s.xml">
-      <configuration name="DistanceTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DistanceTest - 2019.01.09 at 23h 29m 12s.xml">
-      <configuration name="DistanceTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FuckingSheet_testUntitledTestCase - 2019.01.12 at 13h 20m 11s.xml">
-      <configuration name="FuckingSheet.testUntitledTestCase" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="FuckingSheet_testUntitledTestCase - 2019.01.12 at 13h 21m 29s.xml">
       <configuration name="FuckingSheet.testUntitledTestCase" configurationId="TestNG" />
     </history-entry>
@@ -1094,6 +1091,24 @@
     </history-entry>
     <history-entry file="FirstTest_testUntitledTestCase_(1) - 2019.01.12 at 13h 46m 31s.xml">
       <configuration name="FirstTest.testUntitledTestCase (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateGroupTest_testUntitledTestCase - 2019.01.12 at 22h 00m 45s.xml">
+      <configuration name="CreateGroupTest.testUntitledTestCase" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateContactTest - 2019.01.12 at 22h 01m 15s.xml">
+      <configuration name="CreateContactTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateContactTest - 2019.01.12 at 22h 02m 01s.xml">
+      <configuration name="CreateContactTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateContactTest - 2019.01.12 at 23h 36m 09s.xml">
+      <configuration name="CreateContactTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateContactTest - 2019.01.12 at 23h 53m 35s.xml">
+      <configuration name="CreateContactTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateContactTest - 2019.01.12 at 23h 54m 30s.xml">
+      <configuration name="CreateContactTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1108,11 +1123,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33519554" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33519554" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2718509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2718509" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.32969153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1396,15 +1411,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        <state relative-caret-position="255">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/ContactGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateContactTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="578">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#3800#3801#0" expanded="true" />
+            <element signature="e#3860#3861#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

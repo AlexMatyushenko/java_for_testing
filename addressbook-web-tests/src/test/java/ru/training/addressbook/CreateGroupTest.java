@@ -24,7 +24,7 @@ public class CreateGroupTest {
   }
 
   @Test
-  public void testUntitledTestCase() throws Exception {
+  public void testCreateGroup() throws Exception {
     driver.get("http://localhost/addressbook/");
     driver.findElement(By.name("user")).click();
     driver.findElement(By.name("user")).clear();
