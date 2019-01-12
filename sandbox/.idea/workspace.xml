@@ -2,72 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ce1458-2f49-48dc-80af-821a9c2eb13b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_cognifide_aet_selenium_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jna_jna_3_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_net_commons_net_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jna_jna_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jna_platform_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_cssparser_cssparser_0_9_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_2_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_core_js_2_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_neko_htmlunit_2_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_text_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_htmlunit_driver_2_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_jetty_repacked_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_htmlunit_driver_2_52_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_server_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_w3c_css_sac_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xalan_serializer_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xalan_xalan_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/FirstTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -130,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -139,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/FirstTest.java">
+      <file leaf-file-name="CreateGroupTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateContactTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateContactTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="21" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -807,6 +753,8 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/ru/training/java/FuckingSheet.java" />
         <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/FirstTest.java" />
+        <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java" />
+        <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateContactTest.java" />
       </list>
     </option>
   </component>
@@ -889,7 +837,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FirstTest.testUntitledTestCase (1)">
+  <component name="RunManager" selected="TestNG.CreateContactTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -919,19 +867,19 @@
       <option name="WORKING_DIRECTORY" />
       <module name="" />
     </configuration>
-    <configuration name="DistanceTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sandbox_test" />
+    <configuration name="CreateContactTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.training.java.*" />
+          <option name="PATTERN" value="ru.training.addressbook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ru.training.java" />
-      <option name="MAIN_CLASS_NAME" value="ru.training.java.DistanceTest" />
+      <option name="PACKAGE_NAME" value="ru.training.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.training.addressbook.CreateContactTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -948,20 +896,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="DistanceTest.testDistance" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sandbox_test" />
+    <configuration name="CreateGroupTest.testUntitledTestCase" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.training.java.*" />
+          <option name="PATTERN" value="ru.training.addressbook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ru.training.java" />
-      <option name="MAIN_CLASS_NAME" value="ru.training.java.DistanceTest" />
-      <option name="METHOD_NAME" value="testDistance" />
+      <option name="PACKAGE_NAME" value="ru.training.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.training.addressbook.CreateGroupTest" />
+      <option name="METHOD_NAME" value="testUntitledTestCase" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -977,22 +925,22 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="FirstTest.testUntitledTestCase (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="addressbook-web-tests_test" />
+    <configuration name="DistanceTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sandbox_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.training.addressbook.*" />
+          <option name="PATTERN" value="ru.training.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ru.training.addressbook" />
-      <option name="MAIN_CLASS_NAME" value="ru.training.addressbook.FirstTest" />
-      <option name="METHOD_NAME" value="testUntitledTestCase" />
+      <option name="PACKAGE_NAME" value="ru.training.java" />
+      <option name="MAIN_CLASS_NAME" value="ru.training.java.DistanceTest" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1087,19 +1035,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.DistanceTest.testDistance" />
       <item itemvalue="TestNG.DistanceTest" />
       <item itemvalue="TestNG.FuckingSheet.testUntitledTestCase" />
       <item itemvalue="TestNG.FirstTest.testUntitledTestCase" />
-      <item itemvalue="TestNG.FirstTest.testUntitledTestCase (1)" />
+      <item itemvalue="TestNG.CreateGroupTest.testUntitledTestCase" />
+      <item itemvalue="TestNG.CreateContactTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstTest.testUntitledTestCase (1)" />
+        <item itemvalue="TestNG.CreateContactTest" />
+        <item itemvalue="TestNG.CreateGroupTest.testUntitledTestCase" />
         <item itemvalue="TestNG.FirstTest.testUntitledTestCase" />
         <item itemvalue="TestNG.FuckingSheet.testUntitledTestCase" />
         <item itemvalue="TestNG.DistanceTest" />
-        <item itemvalue="TestNG.DistanceTest.testDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -1150,21 +1098,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.14385475" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33519554" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33519554" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2718509" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2718509" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.32969153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1179,7 +1127,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.34776536" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.14385475" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1254,7 +1201,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
@@ -1440,17 +1387,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateGroupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/CreateContactTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="21" selection-end-column="36" />
         </state>
       </provider>
     </entry>
