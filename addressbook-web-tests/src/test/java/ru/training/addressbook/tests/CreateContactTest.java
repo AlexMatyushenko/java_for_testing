@@ -1,4 +1,4 @@
-package ru.training.addressbook;
+package ru.training.addressbook.tests;
 
 import java.util.concurrent.TimeUnit;
 
@@ -7,6 +7,7 @@ import org.testng.annotations.*;
 import static org.testng.Assert.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.Select;
+import ru.training.addressbook.model.ContactFormParameters;
 
 public class CreateContactTest {
   private WebDriver driver;

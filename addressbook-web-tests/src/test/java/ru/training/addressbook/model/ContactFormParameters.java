@@ -1,4 +1,4 @@
-package ru.training.addressbook;
+package ru.training.addressbook.model;
 
 public class ContactFormParameters {
     private final String firstName;

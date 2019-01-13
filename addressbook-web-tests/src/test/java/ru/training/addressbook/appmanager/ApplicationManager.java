@@ -1,35 +1,32 @@
-package ru.training.addressbook;
+package ru.training.addressbook.appmanager;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import ru.training.addressbook.model.GroupFormParameters;
 
 import java.util.concurrent.TimeUnit;
 
 import static org.testng.Assert.fail;
 
-public class TestBase {
+public class ApplicationManager {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
     private StringBuffer verificationErrors = new StringBuffer();
 
-    @BeforeClass(alwaysRun = true)
-    public void setUp() throws Exception {
-      driver = new ChromeDriver();
-      baseUrl = "https://www.katalon.com/";
-      driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-      login();
+    public void init() {
+        driver = new ChromeDriver();
+        baseUrl = "https://www.katalon.com/";
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        login();
     }
 
-    @AfterClass(alwaysRun = true)
-    public void tearDown() throws Exception {
-      driver.quit();
-      String verificationErrorString = verificationErrors.toString();
-      if (!"".equals(verificationErrorString)) {
-        fail(verificationErrorString);
-      }
+    public void stop() {
+        driver.quit();
+        String verificationErrorString = verificationErrors.toString();
+        if (!"".equals(verificationErrorString)) {
+          fail(verificationErrorString);
+        }
     }
 
     private boolean isElementPresent(By by) {
@@ -75,11 +72,11 @@ public class TestBase {
       driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[1]/following::input[2]")).click();
     }
 
-    protected void submitCreationGroup() {
+    public void submitCreationGroup() {
       driver.findElement(By.name("submit")).click();
     }
 
-    protected void fillGroupForm(GroupFormParameters groupFormParameters) {
+    public void fillGroupForm(GroupFormParameters groupFormParameters) {
       driver.findElement(By.name("group_name")).click();
       driver.findElement(By.name("group_name")).clear();
       driver.findElement(By.name("group_name")).sendKeys(groupFormParameters.getGroupName());
@@ -91,23 +88,23 @@ public class TestBase {
       driver.findElement(By.name("group_footer")).sendKeys(groupFormParameters.getGroupFooter());
     }
 
-    protected void pressButtonNewGroup() {
+    public void pressButtonNewGroup() {
       driver.findElement(By.name("new")).click();
     }
 
-    protected void openGroupPage() {
+    public void openGroupPage() {
       driver.findElement(By.linkText("groups")).click();
     }
 
-    protected void returnToGroupPage() {
+    public void returnToGroupPage() {
       driver.findElement(By.linkText("group page")).click();
     }
 
-    protected void deleteSeletedGroups() {
+    public void deleteSeletedGroups() {
       driver.findElement(By.name("delete")).click();
     }
 
-    protected void selectGroup() {
+    public void selectGroup() {
       driver.findElement(By.name("selected[]")).click();
     }
 }
