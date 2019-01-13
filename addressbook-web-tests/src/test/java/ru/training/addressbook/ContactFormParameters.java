@@ -1,6 +1,6 @@
 package ru.training.addressbook;
 
-public class ContactGroup {
+public class ContactFormParameters {
     private final String firstName;
     private final String middleName;
     private final String lastName;
@@ -19,7 +19,7 @@ public class ContactGroup {
     private final String year;
     private final String groupName;
 
-    public ContactGroup(String firstName, String middleName, String lastName, String nikName, String title, String company, String adress, String home, String mobile, String work, String fax, String email, String homepage, String day, String mounth, String year, String groupName) {
+    public ContactFormParameters(String firstName, String middleName, String lastName, String nikName, String title, String company, String adress, String home, String mobile, String work, String fax, String email, String homepage, String day, String mounth, String year, String groupName) {
         this.firstName = firstName;
         this.middleName = middleName;
         this.lastName = lastName;

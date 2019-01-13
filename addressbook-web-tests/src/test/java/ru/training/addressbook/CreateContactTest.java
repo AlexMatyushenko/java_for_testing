@@ -35,7 +35,7 @@ public class CreateContactTest {
   @Test
   public void testCreateContact() throws Exception {
     initContactCreation();
-    fillContactForm(new ContactGroup("Александр", "Викторович", "Матюшенко", "Guevara", "Title", "Company", "Adress", "Home", "999999999", "Work", "Fax", "guevara@gmail.com", "localhost", "25", "January", "1991", "FirstGroup"));
+    fillContactForm(new ContactFormParameters("Александр", "Викторович", "Матюшенко", "Guevara", "Title", "Company", "Adress", "Home", "999999999", "Work", "Fax", "guevara@gmail.com", "localhost", "25", "January", "1991", "FirstGroup"));
     submitContactCreation();
   }
 
@@ -43,7 +43,7 @@ public class CreateContactTest {
     driver.findElement(By.name("new_group")).click();
   }
 
-  private void fillContactForm(ContactGroup contactGroup) {
+  private void fillContactForm(ContactFormParameters contactGroup) {
     driver.findElement(By.name("firstname")).click();
     driver.findElement(By.name("firstname")).clear();
     driver.findElement(By.name("firstname")).sendKeys(contactGroup.getFirstName());
