@@ -45,4 +45,24 @@ public class GroupHelper {
     public void returnToGroupPage() {
         driver.findElement(By.linkText("group page")).click();
     }
+
+    public void clickButtonUpdateGroup() {
+        driver.findElement(By.name("update")).click();
+    }
+
+    public void editFillGropForm() {
+        driver.findElement(By.name("group_name")).click();
+        driver.findElement(By.name("group_name")).clear();
+        driver.findElement(By.name("group_name")).sendKeys("NewName");
+        driver.findElement(By.name("group_header")).click();
+        driver.findElement(By.name("group_header")).clear();
+        driver.findElement(By.name("group_header")).sendKeys("NewHeader");
+        driver.findElement(By.name("group_footer")).click();
+        driver.findElement(By.name("group_footer")).clear();
+        driver.findElement(By.name("group_footer")).sendKeys("NewFooter");
+    }
+
+    public void pressButtonEditGroup() {
+        driver.findElement(By.name("edit")).click();
+    }
 }
