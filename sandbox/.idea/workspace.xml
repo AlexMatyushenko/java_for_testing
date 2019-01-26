@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ce1458-2f49-48dc-80af-821a9c2eb13b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/training/java/EquationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/ApplicationManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/GroupHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/NavigationHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/NavigationHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/SessionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/appmanager/SessionHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/tests/ModifyGroupTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/training/addressbook/tests/ModifyGroupTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/tests/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,21 +63,17 @@
       <file leaf-file-name="Equation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/training/java/Equation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-              <folding>
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EquationsTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/training/java/EquationsTest.java">
+      <file leaf-file-name="EquationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/training/java/EquationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            <state relative-caret-position="255">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/tests/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,10 +96,12 @@
       <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="629">
+              <caret line="37" column="19" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,7 +143,7 @@
       <file leaf-file-name="GroupHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/GroupHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="102">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -810,10 +814,12 @@
         <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/GroupHelper.java" />
         <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/SessionHelper.java" />
         <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/NavigationHelper.java" />
-        <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/HelperBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/training/java/Equation.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/training/java/EquationsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/training/java/EquationTest.java" />
+        <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/tests/TestBase.java" />
       </list>
     </option>
   </component>
@@ -829,67 +835,73 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+              <item name="appmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -922,7 +934,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.EquationTest">
+  <component name="RunManager" selected="TestNG.CreateGroupTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -1128,10 +1140,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CreateGroupTest" />
         <item itemvalue="TestNG.EquationTest" />
         <item itemvalue="TestNG.ModifyGroupTest.testModifyGroup (1)" />
         <item itemvalue="TestNG.ModifyGroupTest.testModifyGroup" />
-        <item itemvalue="TestNG.CreateGroupTest" />
         <item itemvalue="TestNG.DeleteGroupTest" />
       </list>
     </recent_temporary>
@@ -1150,15 +1162,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateContactTest - 2019.01.12 at 23h 54m 30s.xml">
-      <configuration name="CreateContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateGroupTest - 2019.01.13 at 12h 56m 56s.xml">
-      <configuration name="CreateGroupTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CreateGroupTest - 2019.01.13 at 13h 14m 37s.xml">
-      <configuration name="CreateGroupTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DeleteGroupTest - 2019.01.13 at 14h 28m 59s.xml">
       <configuration name="DeleteGroupTest" configurationId="TestNG" />
     </history-entry>
@@ -1180,34 +1183,42 @@
     <history-entry file="ModifyGroupTest_testModifyGroup_(1) - 2019.01.14 at 23h 03m 46s.xml">
       <configuration name="ModifyGroupTest.testModifyGroup (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="EquationsTest - 2019.01.19 at 18h 31m 14s.xml">
+      <configuration name="EquationsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateGroupTest - 2019.01.26 at 14h 42m 37s.xml">
+      <configuration name="CreateGroupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateGroupTest - 2019.01.26 at 14h 51m 28s.xml">
+      <configuration name="CreateGroupTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="469" width="1582" height="421" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.14385475" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33519554" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33519554" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29697767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29820052" />
       <window_info anchor="right" id="Gradle" order="5" weight="0.32969153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.14385475" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -1457,16 +1468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/tests/ModifyGroupTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1494,10 +1495,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/ApplicationManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/training/java/Equation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/training/java/EquationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1506,18 +1514,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/GroupHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="102">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1528,21 +1529,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/training/java/Equation.java">
+    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="578">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/appmanager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="19" />
           <folding>
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/training/java/EquationsTest.java">
+    <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/training/addressbook/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="105">
+          <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
